@@ -23,3 +23,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Music [Title/Artist]
 ・優しさの理由(ChouCHo)
 ・Pixel Empire(Madeon)
+・風の午後に(lamp)
