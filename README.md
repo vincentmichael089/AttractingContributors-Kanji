@@ -23,8 +23,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # My Project - Favorite song
 Please tell me your favorite song!
 
-# List of Music [Title/Artist]
-- 優しさの理由(ChouCHo)
+# List of Music [Title(Artist)]
+- 優しさの理由(ChouCho)
 - Pixel Empire(Madeon)
 - 風の午後に(lamp)
 - Beyond the time(Moriguchi Hiroko)
