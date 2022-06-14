@@ -21,9 +21,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Music [Title/Artist]
-・優しさの理由(ChouCHo)
-・Pixel Empire(Madeon)
-・風の午後に(lamp)
-・Beyond the time(Moriguchi Hiroko)
-・金木犀の夜(きのこ帝国)
-・
+- 優しさの理由(ChouCHo)
+- Pixel Empire(Madeon)
+- 風の午後に(lamp)
+- Beyond the time(Moriguchi Hiroko)
+- 金木犀の夜(きのこ帝国)
+- 
