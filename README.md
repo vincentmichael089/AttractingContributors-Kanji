@@ -24,4 +24,6 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 ・優しさの理由(ChouCHo)
 ・Pixel Empire(Madeon)
 ・風の午後に(lamp)
-・金木犀の夜（きのこ帝国)
+・Beyond the time(Moriguchi Hiroko)
+・金木犀の夜(きのこ帝国)
+・
