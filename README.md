@@ -25,3 +25,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 ・Pixel Empire(Madeon)
 ・風の午後に(lamp)
 ・Beyond the time(Moriguchi Hiroko)
+・金木犀の夜(きのこ帝国)
+・
