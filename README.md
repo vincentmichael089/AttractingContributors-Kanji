@@ -20,6 +20,9 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
+# My Project - Favorite song
+Please tell me your favorite song!
+
 # List of Music [Title/Artist]
 - 優しさの理由(ChouCHo)
 - Pixel Empire(Madeon)
