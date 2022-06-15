@@ -21,24 +21,21 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Topic
-Please let us know which chain restaurant you frequent most often.
+What is your average amount of sleep?
 
-あなたがよく利用するチェーン経営しているお店を教えてください。
+あなたの平均睡眠時間を教えてください。
 
-# List of chain restaurant
-- Starbucks Coffee 
-- ジョイフル  
-- Joyfull
-- sukiya
-- ドトール
-- Kura sushi
-- Mcdonald's
-- Lawson
-- Yoshinoya
-- burger king
-- Hanamaru udon
-- バーミヤン
-- なか卵
-- Baskin Robbins
-- サイゼリア
-- すき家
+# List of sleep time list
+example) 8 hours
+- 6 hours
+- 5+2 hours
+- 7 hours
+- 5 hours
+- 3 hours
+- 6 hours
+- 10 hours
+- 6 hours
+- 4 hours
+- 7 hours
+- 6 hours
+- 6 hours
