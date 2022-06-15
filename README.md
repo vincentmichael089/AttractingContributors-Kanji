@@ -15,19 +15,30 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# What Mouse do you use mpst often? (PC Mouse)
-普段どのマウスを使用してPCを使っていますか？
-型番が分からない人はメーカーを送ってください！
+# Example. 
+https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
-# List of Hobby
-example) Logicool G703
-- Xtrfy M42
-- MX MASTER 3
-- Logicool pro hero
-- Logicool M650LOW L
-- ロジクールG304  
-- steelserries AEROX3
-- Logicool M575
-- MS111-P
-- zowie ec2b
-- Logicool G PRO X superlight
+https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
+
+# Topic
+Please let us know which chain restaurant you frequent most often.
+
+あなたがよく利用するチェーン経営しているお店を教えてください。
+
+# List of chain restaurant
+- Starbucks Coffee 
+- ジョイフル  
+- Joyfull
+- sukiya
+- ドトール
+- Kura sushi
+- Mcdonald's
+- Lawson
+- Yoshinoya
+- burger king
+- Hanamaru udon
+- バーミヤン
+- なか卵
+- Baskin Robbins
+- サイゼリア
+- すき家
