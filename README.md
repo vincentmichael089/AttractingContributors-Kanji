@@ -15,27 +15,23 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Last Game  you played)
+Goal - I want contributors to help me list last video game someone played. 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# Topic
-What is your average amount of sleep?
 
-あなたの平均睡眠時間を教えてください。
-
-# List of sleep time list
-example) 8 hours
-- 6 hours
-- 5+2 hours
-- 7 hours
-- 5 hours
-- 3 hours
-- 6 hours
-- 10 hours
-- 6 hours
-- 4 hours
-- 7 hours
-- 6 hours
-- 6 hours
+# List of Hobby
+1.League of Legends
+2.Overwatch
+3.AVA  
+4.Asphalt 9 
+5.Valorant
+6.Kirby and the Forgotten Land
+7.Fate / Grand Order
+8.パチンコ
+9.Groove coaster
+10.r6s
+11.dead by daylight
+12.GenGod
+13.Genshinn.
+14.League of Legends
