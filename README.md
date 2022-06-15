@@ -15,3 +15,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 8. Princess Daisy
 9. イタチ（NARUTO）
 10. Pikachu
+11. Ash
