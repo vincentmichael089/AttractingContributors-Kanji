@@ -14,3 +14,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 7. Yayoi Akikawa (Uma Musume: Pretty Derby)
 8. Princess Daisy
 9. イタチ（NARUTO）
+10. Pikachu
