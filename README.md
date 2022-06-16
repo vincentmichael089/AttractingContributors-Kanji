@@ -35,3 +35,4 @@ I'm looking forward to your effort.
 7. RTX 3060Ti
 8. MX450
 9. RTX 2070
+10. RX 6400
