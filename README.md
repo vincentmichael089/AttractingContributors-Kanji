@@ -19,3 +19,4 @@ To complete the assignment, please do the following:
 - 過ちて改めざる、これを過ちという。
 - Hakuna Matata
 - Fortune favors the bold
+- Where there is a will, there is a way.
