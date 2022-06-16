@@ -31,5 +31,7 @@ If you help my project, please add your favorite spot in Nara into the List of H
 
 Thank you for your cooperation.<br>
 
+I'm looking forward to your effort!
 # List of Hobby
 -ヤオヒコ
+- 郡山イオン
