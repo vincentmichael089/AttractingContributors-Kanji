@@ -16,3 +16,5 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 9. イタチ（NARUTO）
 10. Pikachu
 11. Ash
+12. Char Aznable（機動戦士ガンダム 逆襲のシャア）
+13. Athrun Zala（機動戦士ガンダムSEED ）
