@@ -1,4 +1,3 @@
-
 ![Video Game Characters](https://cdn.mos.cms.futurecdn.net/krniDkpHJKbzdmM3bBCzeK-970-80.jpg.webp)
 
 # My project: Collection of favorite characters
@@ -18,3 +17,4 @@ My goal is to collect the favorite characters from multiple contributors. The ch
 11. Ash
 12. Char Aznable（機動戦士ガンダム 逆襲のシャア）
 13. Athrun Zala（機動戦士ガンダムSEED ）
+14. Anya
