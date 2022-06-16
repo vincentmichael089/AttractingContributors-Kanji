@@ -20,3 +20,5 @@ To complete the assignment, please do the following:
 - Hakuna Matata
 - Fortune favors the bold
 - Where there is a will, there is a way.
+- 人事を尽くして天命を待つ
+- Time is money
