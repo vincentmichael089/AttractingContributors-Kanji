@@ -20,3 +20,4 @@ To complete the assignment, please do the following:
 - Hakuna Matata
 - Fortune favors the bold
 - 人事を尽くして天命を待つ
+- Time is money
