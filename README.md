@@ -1,15 +1,21 @@
-# Attracting Contributors
-As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
+![Video Game Characters](https://cdn.mos.cms.futurecdn.net/krniDkpHJKbzdmM3bBCzeK-970-80.jpg.webp)
 
-# What is your favorite Kanji?
-Please let me know your favorite Kanji! more than one is okay!
+# My project: Collection of favorite characters
+My goal is to collect the favorite characters from multiple contributors. The character can originate from everything - be it anime, video games, shows, movies, manga or whatever. Anything goes! If you don't mind, please also add where this character is from.
 
-# Kanji list
-1. 冬
-2. 惰
-3. 瞭
-4. 肉
-5. 暇
-6. 誠
-7. 麗
-8. 桜
+# List of favorite characters
+1. Joel Miller (The Last of Us)
+2. Jax(League of Legends)
+3. Tony Stark (The Iron Man)
+4. Johnny Depp (The Pirate of Carribean)
+5. Akemi Homura (魔法少女　まどか☆マギカ)
+6. Yu Takasaki (Love Live!)
+7. Yayoi Akikawa (Uma Musume: Pretty Derby)
+8. Princess Daisy
+9. イタチ（NARUTO）
+10. Pikachu
+11. Ash
+12. Char Aznable（機動戦士ガンダム 逆襲のシャア）
+13. Athrun Zala（機動戦士ガンダムSEED ）
+14. Anya
+15. Kurotsuchi Mayuri (Bleach)
