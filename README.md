@@ -25,4 +25,4 @@ Recently I have been eating oyakodon at the school cafeteria and cup yakisoba at
 I think I should eat healthier food!  
 もっと健康なご飯をたべるべきだと思っていますが...
 
-# List of Hobby 
+# List of LUNCH MENU
