@@ -10,4 +10,6 @@ Tell me please!
 5. 綿矢りさ　　Risa Wataya
 6. 村上春樹
 7. 久保宣章
+8. 尾田栄一
+
 
