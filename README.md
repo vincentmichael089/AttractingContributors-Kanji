@@ -13,4 +13,5 @@ Please let me know your favorite Kanji! more than one is okay!
 6. 誠
 7. 麗
 8. 桜
-9. 瑞
+9. 金
+10. 瑞
