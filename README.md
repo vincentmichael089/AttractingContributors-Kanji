@@ -16,3 +16,5 @@ Please let me know your favorite Kanji! more than one is okay!
 9. 金
 10. 瑞
 11. 絆
+12. 忘
+
