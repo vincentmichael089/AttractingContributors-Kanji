@@ -16,13 +16,13 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # Example. 
-What kind of lunch do you eat?
+What kind of lunch do you eat?  
 みなさんはどんな昼ご飯をたべていますか。
 
-Recently I have been eating oyakodon at the school cafeteria and cup yakisoba at the dormitory.
+Recently I have been eating oyakodon at the school cafeteria and cup yakisoba at the dormitory.  
 私は最近学食で親子丼を食べたり、寮でカップ焼きそばをたべています。
 
-I think I should eat healthier food!
+I think I should eat healthier food!  
 もっと健康なご飯をたべるべきだと思っていますが...
 
 # List of Hobby 
