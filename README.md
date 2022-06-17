@@ -22,3 +22,4 @@ To complete the assignment, please do the following:
 - Where there is a will, there is a way.
 - 人事を尽くして天命を待つ
 - Time is money
+- きれいな花には棘がある
