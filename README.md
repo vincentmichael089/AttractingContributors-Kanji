@@ -20,3 +20,4 @@ What is your favorite English/Japanese word?
 
 # List of Words
 1. 吝かではない
+2. Gazebo
