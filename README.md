@@ -24,3 +24,4 @@ What is your favorite English/Japanese word?
 3. 魑魅魍魎
 4. ほっとする
 5. try
+6. crisps
