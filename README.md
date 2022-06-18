@@ -19,4 +19,5 @@ To complete the assignment, please do the following:
 What is your favorite English/Japanese word?
 
 # List of Words
-Gazebo
+1. 吝かではない
+2. Gazebo
