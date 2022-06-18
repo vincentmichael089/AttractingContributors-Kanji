@@ -26,7 +26,10 @@ I think I should eat healthier food!
 もっと健康なご飯をたべるべきだと思っていますが...
 
 # List of LUNCH MENU
-・sushi  
-・katu-don　　
-・croissant　　
-・udon　　
+
+・sushi　　
+・Udon　　
+・sushi 　　 
+・katu-don　　　
+・croissant　　　　
+・udon　　　　
