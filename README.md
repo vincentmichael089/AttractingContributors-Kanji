@@ -27,11 +27,13 @@ I think I should eat healthier food!
 
 # List of LUNCH MENU
 
-・sushi　　
-・salad chicken
-・sushi　　
-・Udon　　
-・sushi 　　 
-・katu-don　　　
-・croissant　　　　
-・udon　　　　
+- sushi
+- 弁当
+- sushi　　
+- salad chicken
+- sushi　　
+- Udon　　
+- sushi 　　 
+- katu-don　　　
+- croissant　　　　
+- udon　　　　
