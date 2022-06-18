@@ -19,4 +19,6 @@ To complete the assignment, please do the following:
 What is your favorite English/Japanese word?
 
 # List of Words
-- 魑魅魍魎
+1. 吝かではない
+2. Gazebo
+3. 魑魅魍魎
