@@ -18,4 +18,6 @@ Please let me know your favorite Kanji! more than one is okay!
 11. 絆
 12. 忘
 13. 縦
-14. 純
+14. 寝
+15. 純
+
