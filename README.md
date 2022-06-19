@@ -13,4 +13,5 @@ Feel free! :blush:
 -いいよ　来いよ
 - Hel lo World
 - Let it go
+- Everything is fine
 - Now do it
