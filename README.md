@@ -14,3 +14,6 @@ Feel free! :blush:
 - Hel lo World
 - Let it go
 - Conditional random field
+- be ambitious
+- Everything is fine
+- Now do it
