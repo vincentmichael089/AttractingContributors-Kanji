@@ -14,3 +14,5 @@ Feel free! :blush:
 - Hel lo World
 - Let it go
 - be ambitious
+- Everything is fine
+- Now do it
