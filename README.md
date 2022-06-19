@@ -34,3 +34,4 @@ I think I should eat healthier food!
 - katu-don　　　
 - croissant　　　　
 - udon　　　　
+- french fry
