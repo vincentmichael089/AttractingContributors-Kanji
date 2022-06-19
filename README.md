@@ -13,4 +13,9 @@ Feel free! :blush:
 -いいよ　来いよ
 - Hel lo World
 - Let it go
+- Conditional random field
+- be ambitious
+- Everything is fine
+- Now do it
+- Move like Jagger
 - Natural Language Processing
