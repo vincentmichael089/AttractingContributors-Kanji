@@ -35,3 +35,5 @@ I think I should eat healthier food!
 - croissant　　　　
 - udon　　　　
 - cheese cake
+- french fry
+- curry　　　
