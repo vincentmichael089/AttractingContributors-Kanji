@@ -20,4 +20,5 @@ Please let me know your favorite Kanji! more than one is okay!
 13. 縦
 14. 寝
 15. 純
+16. 蛇
 
