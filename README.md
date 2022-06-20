@@ -21,5 +21,4 @@ Please let me know your favorite Kanji! more than one is okay!
 14. 寝
 15. 純
 16. 蛇
-
-色
+17. 色
